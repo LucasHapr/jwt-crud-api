@@ -69,8 +69,7 @@ nas rotas protegidas.
 ---
 
 ## 📑 Documentação
-- **Swagger UI:** [http://localhost:3000/docs](http://localhost:3000/docs)
-- **OpenAPI JSON:** [http://localhost:3000/openapi.json](http://localhost:3000/openapi.json)
+- **Swagger UI:** [https://jwt-crud-api.onrender.com/docs](https://jwt-crud-api.onrender.com/docs)
 
 ---
 
