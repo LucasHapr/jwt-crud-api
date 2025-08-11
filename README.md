@@ -1,12 +1,12 @@
 # 🚀 JWT CRUD API — Node.js + Docker + MongoDB + Swagger
-
-API RESTful com autenticação **JWT**, CRUD de **produtos**, paginação, busca full-text, documentação com **Swagger** e ambiente **containerizado** via Docker Compose. 
-
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED)](https://www.docker.com/)
 [![Node](https://img.shields.io/badge/Node-20.x-339933)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-5.x-000000)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248)](https://www.mongodb.com/)
 [![Swagger](https://img.shields.io/badge/OpenAPI-3.0-85EA2D)](https://swagger.io/)
+
+API RESTful com autenticação **JWT**, CRUD de **produtos**, paginação, busca full-text, documentação com **Swagger** e ambiente **containerizado** via Docker Compose. 
+
 
 ## ✨ Features
 - Login/Registro com **JWT** (Bearer)
